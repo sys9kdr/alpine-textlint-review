@@ -6,7 +6,7 @@ RUN npm install --global\
     textlint-rule-preset-jtf-style \
     textlint-rule-preset-ja-spacing \
     textlint-rule-spellcheck-tech-word \
-    textlint-rule-prh
+    textlint-rule-prh \
     textlint-plugin-review
 
 WORKDIR /workdir
